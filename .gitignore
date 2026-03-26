@@ -5,3 +5,4 @@ data/interim/
 data/processed/
 
 *.md
+!README.md
