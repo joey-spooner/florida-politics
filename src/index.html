@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Florida Politics</title>
+  <meta name="description" content="An interactive explorer of Florida legislative party balance and gubernatorial primary county results from 1992 to 2024." />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='28' font-size='28'>🌴</text></svg>" />
+  <script type="module" src="./main.ts"></script>
+</head>
+<body>
+  <div id="app">
+
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="header-text">
+          <h1 class="site-title">Florida Politics</h1>
+          <p class="site-subtitle">
+            Legislative party balance and gubernatorial primary county results, 1992–2024.
+            Click a year on the chart to update the map.
+          </p>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-content">
+
+      <!-- Chart section -->
+      <section class="chart-section" aria-label="Florida legislature party balance over time">
+        <h2 class="section-heading">Combined Legislature Seats by Party</h2>
+        <p class="section-sub">Florida House (120 seats) + Florida Senate (40 seats). Click any year to see the corresponding county map.</p>
+        <div id="chart-container" class="chart-container"></div>
+      </section>
+
+      <!-- Map + Details section -->
+      <section id="map-section" class="map-details-section" aria-label="Florida county map">
+        <div class="map-details-layout">
+
+          <div class="map-pane">
+            <h2 class="section-heading">County Results — Gubernatorial Primary</h2>
+            <p class="section-sub">Counties colored by which major party drew more total votes in the gubernatorial primary.</p>
+            <div id="map-container" class="map-container"></div>
+          </div>
+
+          <aside class="details-pane" aria-label="Selected year details">
+            <h2 class="section-heading">Selected Year</h2>
+            <div id="details-panel" class="details-panel">
+              <p class="details-empty">Loading…</p>
+            </div>
+          </aside>
+
+        </div>
+      </section>
+
+      <!-- Accessibility summary (visually hidden) -->
+      <div id="a11y-summary" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <h2 class="footer-heading">Methodology &amp; Sources</h2>
+
+        <div class="footer-grid">
+          <div>
+            <h3>Legislature data</h3>
+            <p>Combined Florida House and Senate partisan composition, 1992–2024. Sourced from Ballotpedia Florida House and Senate partisan history tables. Pre-2006 data compiled from Michael Dubin's historical records.</p>
+            <p>Florida House: 120 seats. Florida Senate: 40 seats. Total: 160 seats per cycle.</p>
+          </div>
+
+          <div>
+            <h3>Gubernatorial primary data</h3>
+            <p>County-level results from the Florida Division of Elections. 2014, 2018, and 2022 sourced from precinct-level ZIP files (dos.fl.gov). 1994, 2002, 2006, and 2010 sourced via bulk TSV extract from the Florida DoE results archive (results.elections.myflorida.com).</p>
+          </div>
+
+          <div>
+            <h3>County coloring</h3>
+            <p>Each county is colored by which major party (Democrat or Republican) drew the higher total votes across its gubernatorial primary contest. When only one party held a contested primary (e.g., 2002 and 2022 Republican primaries were uncontested), the county is colored by the party with available votes.</p>
+          </div>
+
+          <div>
+            <h3>Excluded years</h3>
+            <p><strong>1998:</strong> Both primaries were uncontested. The US Election Atlas data for 1998 was found to display general election results (Bush vs. MacKay) mislabeled as primary data. Year excluded from the county map; legislature data is included in the chart.</p>
+            <p><strong>1992:</strong> No gubernatorial primary was held in this cycle. Legislature data shown.</p>
+          </div>
+        </div>
+
+        <div class="footer-meta">
+          <p>Data last built: <span id="build-date">—</span> &nbsp;·&nbsp; Built by <a href="https://spoonerlabs.com" target="_blank" rel="noopener">Spooner Labs</a></p>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+</body>
+</html>

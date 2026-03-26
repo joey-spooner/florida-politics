@@ -1,0 +1,681 @@
+{
+  "year": 2006,
+  "primaryDate": "2006-09-05",
+  "electionType": "gubernatorial_primary",
+  "countyCount": 67,
+  "notes": [],
+  "source": "Florida Division of Elections (results.elections.myflorida.com) — downloaded 2026-03-26",
+  "parsedAt": "2026-03-26T11:15:27.579Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 23986,
+      "repVotes": 10104,
+      "totalVotes": 34090,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2655,
+      "repVotes": 1089,
+      "totalVotes": 3744,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 11656,
+      "repVotes": 18405,
+      "totalVotes": 30061,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2722,
+      "repVotes": 1406,
+      "totalVotes": 4128,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 24397,
+      "repVotes": 39701,
+      "totalVotes": 64098,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 73364,
+      "repVotes": 32134,
+      "totalVotes": 105498,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2567,
+      "repVotes": 325,
+      "totalVotes": 2892,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4625,
+      "repVotes": 11561,
+      "totalVotes": 16186,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 8912,
+      "repVotes": 11955,
+      "totalVotes": 20867,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4898,
+      "repVotes": 17841,
+      "totalVotes": 22739,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6205,
+      "repVotes": 22587,
+      "totalVotes": 28792,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 4901,
+      "repVotes": 3364,
+      "totalVotes": 8265,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 2118,
+      "repVotes": 939,
+      "totalVotes": 3057,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2685,
+      "repVotes": 368,
+      "totalVotes": 3053,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 41290,
+      "repVotes": 47886,
+      "totalVotes": 89176,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 19793,
+      "repVotes": 29110,
+      "totalVotes": 48903,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4838,
+      "repVotes": 6114,
+      "totalVotes": 10952,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 1645,
+      "repVotes": 444,
+      "totalVotes": 2089,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 7248,
+      "repVotes": 844,
+      "totalVotes": 8092,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2624,
+      "repVotes": 1326,
+      "totalVotes": 3950,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 898,
+      "repVotes": 339,
+      "totalVotes": 1237,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2278,
+      "repVotes": 1053,
+      "totalVotes": 3331,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2548,
+      "repVotes": 420,
+      "totalVotes": 2968,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 1705,
+      "repVotes": 832,
+      "totalVotes": 2537,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 1577,
+      "repVotes": 1039,
+      "totalVotes": 2616,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 9962,
+      "repVotes": 13173,
+      "totalVotes": 23135,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4549,
+      "repVotes": 7292,
+      "totalVotes": 11841,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 56080,
+      "repVotes": 58173,
+      "totalVotes": 114253,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 2455,
+      "repVotes": 689,
+      "totalVotes": 3144,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 5017,
+      "repVotes": 13953,
+      "totalVotes": 18970,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 7083,
+      "repVotes": 1975,
+      "totalVotes": 9058,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 3197,
+      "repVotes": 632,
+      "totalVotes": 3829,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 1825,
+      "repVotes": 321,
+      "totalVotes": 2146,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 10592,
+      "repVotes": 23986,
+      "totalVotes": 34578,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 13764,
+      "repVotes": 37409,
+      "totalVotes": 51173,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 33066,
+      "repVotes": 16776,
+      "totalVotes": 49842,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 4186,
+      "repVotes": 1818,
+      "totalVotes": 6004,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 1779,
+      "repVotes": 150,
+      "totalVotes": 1929,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 3262,
+      "repVotes": 467,
+      "totalVotes": 3729,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 14634,
+      "repVotes": 26013,
+      "totalVotes": 40647,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 16303,
+      "repVotes": 22952,
+      "totalVotes": 39255,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 5241,
+      "repVotes": 13862,
+      "totalVotes": 19103,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 70990,
+      "repVotes": 74777,
+      "totalVotes": 145767,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4661,
+      "repVotes": 5188,
+      "totalVotes": 9849,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 3597,
+      "repVotes": 7722,
+      "totalVotes": 11319,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6301,
+      "repVotes": 24983,
+      "totalVotes": 31284,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 3090,
+      "repVotes": 1555,
+      "totalVotes": 4645,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 35836,
+      "repVotes": 44930,
+      "totalVotes": 80766,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6267,
+      "repVotes": 8242,
+      "totalVotes": 14509,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 68904,
+      "repVotes": 36687,
+      "totalVotes": 105591,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 19375,
+      "repVotes": 27412,
+      "totalVotes": 46787,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 49140,
+      "repVotes": 64234,
+      "totalVotes": 113374,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 27369,
+      "repVotes": 35969,
+      "totalVotes": 63338,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 6600,
+      "repVotes": 3233,
+      "totalVotes": 9833,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6037,
+      "repVotes": 16682,
+      "totalVotes": 22719,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 19618,
+      "repVotes": 35606,
+      "totalVotes": 55224,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 12019,
+      "repVotes": 25367,
+      "totalVotes": 37386,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6175,
+      "repVotes": 19028,
+      "totalVotes": 25203,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 10666,
+      "repVotes": 11065,
+      "totalVotes": 21731,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4085,
+      "repVotes": 7216,
+      "totalVotes": 11301,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 4071,
+      "repVotes": 1982,
+      "totalVotes": 6053,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 3400,
+      "repVotes": 943,
+      "totalVotes": 4343,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 1504,
+      "repVotes": 408,
+      "totalVotes": 1912,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 22789,
+      "repVotes": 24215,
+      "totalVotes": 47004,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jim Davis",
+      "demVotes": 4258,
+      "repVotes": 1272,
+      "totalVotes": 5530,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "REP",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2649,
+      "repVotes": 5200,
+      "totalVotes": 7849,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Rod Smith",
+      "demVotes": 3283,
+      "repVotes": 1243,
+      "totalVotes": 4526,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    }
+  ]
+}

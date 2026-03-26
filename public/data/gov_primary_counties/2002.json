@@ -1,0 +1,683 @@
+{
+  "year": 2002,
+  "primaryDate": "2002-09-10",
+  "electionType": "gubernatorial_primary",
+  "countyCount": 67,
+  "notes": [
+    "Republican primary uncontested (Jeb Bush); only Democratic primary has competitive data"
+  ],
+  "source": "Florida Division of Elections (results.elections.myflorida.com) — downloaded 2026-03-26",
+  "parsedAt": "2026-03-26T11:15:27.576Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 26361,
+      "repVotes": null,
+      "totalVotes": 26361,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3562,
+      "repVotes": null,
+      "totalVotes": 3562,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 14744,
+      "repVotes": null,
+      "totalVotes": 14744,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3839,
+      "repVotes": null,
+      "totalVotes": 3839,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 36256,
+      "repVotes": null,
+      "totalVotes": 36256,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 151516,
+      "repVotes": null,
+      "totalVotes": 151516,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3097,
+      "repVotes": null,
+      "totalVotes": 3097,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 9749,
+      "repVotes": null,
+      "totalVotes": 9749,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 11958,
+      "repVotes": null,
+      "totalVotes": 11958,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 6262,
+      "repVotes": null,
+      "totalVotes": 6262,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 8932,
+      "repVotes": null,
+      "totalVotes": 8932,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 8273,
+      "repVotes": null,
+      "totalVotes": 8273,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3071,
+      "repVotes": null,
+      "totalVotes": 3071,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2626,
+      "repVotes": null,
+      "totalVotes": 2626,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 74238,
+      "repVotes": null,
+      "totalVotes": 74238,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 23241,
+      "repVotes": null,
+      "totalVotes": 23241,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 7206,
+      "repVotes": null,
+      "totalVotes": 7206,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2421,
+      "repVotes": null,
+      "totalVotes": 2421,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 9894,
+      "repVotes": null,
+      "totalVotes": 9894,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2588,
+      "repVotes": null,
+      "totalVotes": 2588,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 1574,
+      "repVotes": null,
+      "totalVotes": 1574,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3490,
+      "repVotes": null,
+      "totalVotes": 3490,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2335,
+      "repVotes": null,
+      "totalVotes": 2335,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2938,
+      "repVotes": null,
+      "totalVotes": 2938,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2461,
+      "repVotes": null,
+      "totalVotes": 2461,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 12549,
+      "repVotes": null,
+      "totalVotes": 12549,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 5794,
+      "repVotes": null,
+      "totalVotes": 5794,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 82609,
+      "repVotes": null,
+      "totalVotes": 82609,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3789,
+      "repVotes": null,
+      "totalVotes": 3789,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 7200,
+      "repVotes": null,
+      "totalVotes": 7200,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 8232,
+      "repVotes": null,
+      "totalVotes": 8232,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3844,
+      "repVotes": null,
+      "totalVotes": 3844,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 1814,
+      "repVotes": null,
+      "totalVotes": 1814,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 14670,
+      "repVotes": null,
+      "totalVotes": 14670,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 23100,
+      "repVotes": null,
+      "totalVotes": 23100,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 40377,
+      "repVotes": null,
+      "totalVotes": 40377,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 5431,
+      "repVotes": null,
+      "totalVotes": 5431,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2100,
+      "repVotes": null,
+      "totalVotes": 2100,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3512,
+      "repVotes": null,
+      "totalVotes": 3512,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 19696,
+      "repVotes": null,
+      "totalVotes": 19696,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 24723,
+      "repVotes": null,
+      "totalVotes": 24723,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 8305,
+      "repVotes": null,
+      "totalVotes": 8305,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 159035,
+      "repVotes": null,
+      "totalVotes": 159035,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 6665,
+      "repVotes": null,
+      "totalVotes": 6665,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 5323,
+      "repVotes": null,
+      "totalVotes": 5323,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 8019,
+      "repVotes": null,
+      "totalVotes": 8019,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 4464,
+      "repVotes": null,
+      "totalVotes": 4464,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 65313,
+      "repVotes": null,
+      "totalVotes": 65313,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 9519,
+      "repVotes": null,
+      "totalVotes": 9519,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 108000,
+      "repVotes": null,
+      "totalVotes": 108000,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 29472,
+      "repVotes": null,
+      "totalVotes": 29472,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 77306,
+      "repVotes": null,
+      "totalVotes": 77306,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 40003,
+      "repVotes": null,
+      "totalVotes": 40003,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 10123,
+      "repVotes": null,
+      "totalVotes": 10123,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 7254,
+      "repVotes": null,
+      "totalVotes": 7254,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 22966,
+      "repVotes": null,
+      "totalVotes": 22966,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 17937,
+      "repVotes": null,
+      "totalVotes": 17937,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 10097,
+      "repVotes": null,
+      "totalVotes": 10097,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Janet Reno Not Yet Designated",
+      "demVotes": 17334,
+      "repVotes": null,
+      "totalVotes": 17334,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 5187,
+      "repVotes": null,
+      "totalVotes": 5187,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 4965,
+      "repVotes": null,
+      "totalVotes": 4965,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3306,
+      "repVotes": null,
+      "totalVotes": 3306,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 2154,
+      "repVotes": null,
+      "totalVotes": 2154,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 38742,
+      "repVotes": null,
+      "totalVotes": 38742,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 4741,
+      "repVotes": null,
+      "totalVotes": 4741,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 5081,
+      "repVotes": null,
+      "totalVotes": 5081,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride Not Yet Designated",
+      "demVotes": 3634,
+      "repVotes": null,
+      "totalVotes": 3634,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    }
+  ]
+}

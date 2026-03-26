@@ -1,0 +1,683 @@
+{
+  "year": 1994,
+  "primaryDate": "1994-09-08",
+  "electionType": "gubernatorial_primary",
+  "countyCount": 67,
+  "notes": [
+    "R: Bush plurality; Smith withdrew before runoff, making Bush nominee"
+  ],
+  "source": "Florida Division of Elections (results.elections.myflorida.com) — downloaded 2026-03-26",
+  "parsedAt": "2026-03-26T11:15:27.574Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 13923,
+      "repVotes": 6385,
+      "totalVotes": 20308,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3925,
+      "repVotes": 155,
+      "totalVotes": 4080,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 11144,
+      "repVotes": 5579,
+      "totalVotes": 16723,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 4841,
+      "repVotes": 576,
+      "totalVotes": 5417,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 24233,
+      "repVotes": 40431,
+      "totalVotes": 64664,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 63385,
+      "repVotes": 43488,
+      "totalVotes": 106873,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2671,
+      "repVotes": 95,
+      "totalVotes": 2766,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 5962,
+      "repVotes": 14823,
+      "totalVotes": 20785,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 10170,
+      "repVotes": 9397,
+      "totalVotes": 19567,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ander Crenshaw Chester Clem",
+      "demVotes": 4613,
+      "repVotes": 11163,
+      "totalVotes": 15776,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 4348,
+      "repVotes": 21979,
+      "totalVotes": 26327,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 6137,
+      "repVotes": 1357,
+      "totalVotes": 7494,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3277,
+      "repVotes": 803,
+      "totalVotes": 4080,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3199,
+      "repVotes": 98,
+      "totalVotes": 3297,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 52811,
+      "repVotes": 33864,
+      "totalVotes": 86675,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 19636,
+      "repVotes": 15432,
+      "totalVotes": 35068,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 2920,
+      "repVotes": 3460,
+      "totalVotes": 6380,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 1924,
+      "repVotes": 125,
+      "totalVotes": 2049,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 6376,
+      "repVotes": 383,
+      "totalVotes": 6759,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 1964,
+      "repVotes": 160,
+      "totalVotes": 2124,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 1484,
+      "repVotes": 246,
+      "totalVotes": 1730,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3336,
+      "repVotes": 342,
+      "totalVotes": 3678,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2116,
+      "repVotes": 57,
+      "totalVotes": 2173,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2330,
+      "repVotes": 294,
+      "totalVotes": 2624,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2555,
+      "repVotes": 728,
+      "totalVotes": 3283,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 10053,
+      "repVotes": 13367,
+      "totalVotes": 23420,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 4524,
+      "repVotes": 6915,
+      "totalVotes": 11439,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 50813,
+      "repVotes": 47004,
+      "totalVotes": 97817,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3582,
+      "repVotes": 124,
+      "totalVotes": 3706,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 3968,
+      "repVotes": 13293,
+      "totalVotes": 17261,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 7219,
+      "repVotes": 574,
+      "totalVotes": 7793,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2437,
+      "repVotes": 214,
+      "totalVotes": 2651,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 1771,
+      "repVotes": 37,
+      "totalVotes": 1808,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 10343,
+      "repVotes": 21032,
+      "totalVotes": 31375,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 15042,
+      "repVotes": 37869,
+      "totalVotes": 52911,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 25643,
+      "repVotes": 10312,
+      "totalVotes": 35955,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3731,
+      "repVotes": 737,
+      "totalVotes": 4468,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 1707,
+      "repVotes": 34,
+      "totalVotes": 1741,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3594,
+      "repVotes": 237,
+      "totalVotes": 3831,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 12113,
+      "repVotes": 23993,
+      "totalVotes": 36106,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 15073,
+      "repVotes": 18297,
+      "totalVotes": 33370,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 4690,
+      "repVotes": 15558,
+      "totalVotes": 20248,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 89731,
+      "repVotes": 91766,
+      "totalVotes": 181497,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 6644,
+      "repVotes": 4942,
+      "totalVotes": 11586,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 5740,
+      "repVotes": 1946,
+      "totalVotes": 7686,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 8822,
+      "repVotes": 14285,
+      "totalVotes": 23107,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3421,
+      "repVotes": 715,
+      "totalVotes": 4136,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 32571,
+      "repVotes": 48422,
+      "totalVotes": 80993,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 6176,
+      "repVotes": 7501,
+      "totalVotes": 13677,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 52205,
+      "repVotes": 50284,
+      "totalVotes": 102489,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 16686,
+      "repVotes": 23197,
+      "totalVotes": 39883,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 42139,
+      "repVotes": 80966,
+      "totalVotes": 123105,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 33012,
+      "repVotes": 28960,
+      "totalVotes": 61972,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 5919,
+      "repVotes": 2006,
+      "totalVotes": 7925,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 9012,
+      "repVotes": 6544,
+      "totalVotes": 15556,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 12011,
+      "repVotes": 43487,
+      "totalVotes": 55498,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 9458,
+      "repVotes": 22384,
+      "totalVotes": 31842,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 6740,
+      "repVotes": 9129,
+      "totalVotes": 15869,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 9307,
+      "repVotes": 13793,
+      "totalVotes": 23100,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3955,
+      "repVotes": 1778,
+      "totalVotes": 5733,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 5712,
+      "repVotes": 842,
+      "totalVotes": 6554,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 3070,
+      "repVotes": 193,
+      "totalVotes": 3263,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Jack 'Thro' Gargan James H. King",
+      "demVotes": 1693,
+      "repVotes": 93,
+      "totalVotes": 1786,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush Tom Feeney",
+      "demVotes": 23664,
+      "repVotes": 25242,
+      "totalVotes": 48906,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 4058,
+      "repVotes": 348,
+      "totalVotes": 4406,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 6224,
+      "repVotes": 1137,
+      "totalVotes": 7361,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles Buddy MacKay",
+      "demVotes": 2861,
+      "repVotes": 260,
+      "totalVotes": 3121,
+      "source": "Florida Division of Elections (results.elections.myflorida.com ResultsExtract.Asp)"
+    }
+  ]
+}

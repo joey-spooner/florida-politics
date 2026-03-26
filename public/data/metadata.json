@@ -1,0 +1,87 @@
+{
+  "siteTitle": "Florida Politics",
+  "coverage": {
+    "legislatureFrom": 1992,
+    "legislatureTo": 2024,
+    "governorPrimaryYears": [
+      1994,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "governorPrimaryExcluded": [
+      {
+        "year": 1998,
+        "reason": "Both gubernatorial primaries were uncontested (MacKay D, Bush R). US Election Atlas data for this year is corrupted — it shows the 1998 general election mislabeled as primary data."
+      }
+    ]
+  },
+  "coloringMethod": "Counties colored by which major party drew the higher total votes in its gubernatorial primary in that county. When only one party held a contested primary (e.g. 2002, 2022), only that party's votes are available and the county is colored by that party.",
+  "dataGaps": [
+    "1998: Both primaries uncontested. Excluded from map.",
+    "2002: Republican primary uncontested (Jeb Bush). Only Democratic primary data used for county coloring.",
+    "2022: Republican primary canceled (DeSantis incumbent). Only Democratic primary data used for county coloring."
+  ],
+  "sources": [
+    "Florida Division of Elections (dos.fl.gov) — precinct-level election results 2014–2022",
+    "Florida Division of Elections archive (results.elections.myflorida.com) — county-level results 1994–2010",
+    "Ballotpedia Florida House of Representatives — partisan history 1992–2024",
+    "Ballotpedia Florida Senate — partisan history 1992–2024",
+    "US Atlas TopoJSON (github.com/topojson/us-atlas) — Florida county geometry"
+  ],
+  "buildDate": "2026-03-26",
+  "validation": [
+    {
+      "year": 1994,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2002,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2006,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2010,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2014,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2018,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    },
+    {
+      "year": 2022,
+      "ok": true,
+      "countyCount": 67,
+      "missingCounties": [],
+      "warnings": []
+    }
+  ]
+}

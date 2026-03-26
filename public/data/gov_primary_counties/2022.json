@@ -1,0 +1,683 @@
+{
+  "year": 2022,
+  "primaryDate": "2022-08-23",
+  "electionType": "gubernatorial_primary",
+  "countyCount": 67,
+  "notes": [
+    "Republican primary canceled — DeSantis uncontested; only Democratic primary votes available"
+  ],
+  "source": "Florida Division of Elections (dos.fl.gov / results.elections.myflorida.com)",
+  "parsedAt": "2026-03-26T11:16:20.344Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Nicole \"Nikki\" Fried",
+      "demVotes": 30066,
+      "repVotes": null,
+      "totalVotes": 30066,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1012,
+      "repVotes": null,
+      "totalVotes": 1012,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Nicole \"Nikki\" Fried",
+      "demVotes": 6686,
+      "repVotes": null,
+      "totalVotes": 6686,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1417,
+      "repVotes": null,
+      "totalVotes": 1417,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 46703,
+      "repVotes": null,
+      "totalVotes": 46703,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 168165,
+      "repVotes": null,
+      "totalVotes": 168165,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 848,
+      "repVotes": null,
+      "totalVotes": 848,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 13014,
+      "repVotes": null,
+      "totalVotes": 13014,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 9902,
+      "repVotes": null,
+      "totalVotes": 9902,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 8568,
+      "repVotes": null,
+      "totalVotes": 8568,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 17971,
+      "repVotes": null,
+      "totalVotes": 17971,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2994,
+      "repVotes": null,
+      "totalVotes": 2994,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1409,
+      "repVotes": null,
+      "totalVotes": 1409,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 625,
+      "repVotes": null,
+      "totalVotes": 625,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 82163,
+      "repVotes": null,
+      "totalVotes": 82163,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 20621,
+      "repVotes": null,
+      "totalVotes": 20621,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 10510,
+      "repVotes": null,
+      "totalVotes": 10510,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 957,
+      "repVotes": null,
+      "totalVotes": 957,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 7958,
+      "repVotes": null,
+      "totalVotes": 7958,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 692,
+      "repVotes": null,
+      "totalVotes": 692,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 515,
+      "repVotes": null,
+      "totalVotes": 515,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 707,
+      "repVotes": null,
+      "totalVotes": 707,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1024,
+      "repVotes": null,
+      "totalVotes": 1024,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 605,
+      "repVotes": null,
+      "totalVotes": 605,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1294,
+      "repVotes": null,
+      "totalVotes": 1294,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 11765,
+      "repVotes": null,
+      "totalVotes": 11765,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 5046,
+      "repVotes": null,
+      "totalVotes": 5046,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 103603,
+      "repVotes": null,
+      "totalVotes": 103603,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 554,
+      "repVotes": null,
+      "totalVotes": 554,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 11467,
+      "repVotes": null,
+      "totalVotes": 11467,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 3080,
+      "repVotes": null,
+      "totalVotes": 3080,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2142,
+      "repVotes": null,
+      "totalVotes": 2142,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 271,
+      "repVotes": null,
+      "totalVotes": 271,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 22813,
+      "repVotes": null,
+      "totalVotes": 22813,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 40531,
+      "repVotes": null,
+      "totalVotes": 40531,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 40733,
+      "repVotes": null,
+      "totalVotes": 40733,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2287,
+      "repVotes": null,
+      "totalVotes": 2287,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 606,
+      "repVotes": null,
+      "totalVotes": 606,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1735,
+      "repVotes": null,
+      "totalVotes": 1735,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 29594,
+      "repVotes": null,
+      "totalVotes": 29594,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 24806,
+      "repVotes": null,
+      "totalVotes": 24806,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 10740,
+      "repVotes": null,
+      "totalVotes": 10740,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 131835,
+      "repVotes": null,
+      "totalVotes": 131835,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 7340,
+      "repVotes": null,
+      "totalVotes": 7340,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 4945,
+      "repVotes": null,
+      "totalVotes": 4945,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 7490,
+      "repVotes": null,
+      "totalVotes": 7490,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1169,
+      "repVotes": null,
+      "totalVotes": 1169,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 97809,
+      "repVotes": null,
+      "totalVotes": 97809,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 20877,
+      "repVotes": null,
+      "totalVotes": 20877,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 129404,
+      "repVotes": null,
+      "totalVotes": 129404,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 34376,
+      "repVotes": null,
+      "totalVotes": 34376,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 94506,
+      "repVotes": null,
+      "totalVotes": 94506,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 40611,
+      "repVotes": null,
+      "totalVotes": 40611,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 3857,
+      "repVotes": null,
+      "totalVotes": 3857,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 6295,
+      "repVotes": null,
+      "totalVotes": 6295,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 46554,
+      "repVotes": null,
+      "totalVotes": 46554,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 34392,
+      "repVotes": null,
+      "totalVotes": 34392,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 18384,
+      "repVotes": null,
+      "totalVotes": 18384,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 23239,
+      "repVotes": null,
+      "totalVotes": 23239,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 12197,
+      "repVotes": null,
+      "totalVotes": 12197,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2309,
+      "repVotes": null,
+      "totalVotes": 2309,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1086,
+      "repVotes": null,
+      "totalVotes": 1086,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 401,
+      "repVotes": null,
+      "totalVotes": 401,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 41485,
+      "repVotes": null,
+      "totalVotes": 41485,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 2652,
+      "repVotes": null,
+      "totalVotes": 2652,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Nicole \"Nikki\" Fried",
+      "demVotes": 2460,
+      "repVotes": null,
+      "totalVotes": 2460,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 1079,
+      "repVotes": null,
+      "totalVotes": 1079,
+      "source": "Florida Division of Elections"
+    }
+  ]
+}

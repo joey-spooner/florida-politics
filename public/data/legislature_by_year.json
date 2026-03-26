@@ -1,0 +1,189 @@
+[
+  {
+    "year": 1992,
+    "house_dem": 71,
+    "house_rep": 49,
+    "senate_dem": 20,
+    "senate_rep": 20,
+    "total_dem": 91,
+    "total_rep": 69,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": null
+  },
+  {
+    "year": 1994,
+    "house_dem": 63,
+    "house_rep": 57,
+    "senate_dem": 19,
+    "senate_rep": 21,
+    "total_dem": 82,
+    "total_rep": 78,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 1994
+  },
+  {
+    "year": 1996,
+    "house_dem": 59,
+    "house_rep": 61,
+    "senate_dem": 17,
+    "senate_rep": 23,
+    "total_dem": 76,
+    "total_rep": 84,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 1994
+  },
+  {
+    "year": 1998,
+    "house_dem": 48,
+    "house_rep": 72,
+    "senate_dem": 15,
+    "senate_rep": 25,
+    "total_dem": 63,
+    "total_rep": 97,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 1998
+  },
+  {
+    "year": 2000,
+    "house_dem": 43,
+    "house_rep": 77,
+    "senate_dem": 15,
+    "senate_rep": 25,
+    "total_dem": 58,
+    "total_rep": 102,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 1998
+  },
+  {
+    "year": 2002,
+    "house_dem": 39,
+    "house_rep": 81,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 53,
+    "total_rep": 107,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2002
+  },
+  {
+    "year": 2004,
+    "house_dem": 36,
+    "house_rep": 84,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 50,
+    "total_rep": 110,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2002
+  },
+  {
+    "year": 2006,
+    "house_dem": 41,
+    "house_rep": 79,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 55,
+    "total_rep": 105,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2006
+  },
+  {
+    "year": 2008,
+    "house_dem": 44,
+    "house_rep": 76,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 58,
+    "total_rep": 102,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2006
+  },
+  {
+    "year": 2010,
+    "house_dem": 39,
+    "house_rep": 81,
+    "senate_dem": 12,
+    "senate_rep": 28,
+    "total_dem": 51,
+    "total_rep": 109,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2010
+  },
+  {
+    "year": 2012,
+    "house_dem": 46,
+    "house_rep": 74,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 60,
+    "total_rep": 100,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2010
+  },
+  {
+    "year": 2014,
+    "house_dem": 37,
+    "house_rep": 82,
+    "senate_dem": 14,
+    "senate_rep": 26,
+    "total_dem": 51,
+    "total_rep": 108,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2014
+  },
+  {
+    "year": 2016,
+    "house_dem": 41,
+    "house_rep": 79,
+    "senate_dem": 15,
+    "senate_rep": 25,
+    "total_dem": 56,
+    "total_rep": 104,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2014
+  },
+  {
+    "year": 2018,
+    "house_dem": 47,
+    "house_rep": 73,
+    "senate_dem": 17,
+    "senate_rep": 23,
+    "total_dem": 64,
+    "total_rep": 96,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2018
+  },
+  {
+    "year": 2020,
+    "house_dem": 42,
+    "house_rep": 78,
+    "senate_dem": 16,
+    "senate_rep": 24,
+    "total_dem": 58,
+    "total_rep": 102,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2018
+  },
+  {
+    "year": 2022,
+    "house_dem": 35,
+    "house_rep": 85,
+    "senate_dem": 12,
+    "senate_rep": 28,
+    "total_dem": 47,
+    "total_rep": 113,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2022
+  },
+  {
+    "year": 2024,
+    "house_dem": 35,
+    "house_rep": 85,
+    "senate_dem": 12,
+    "senate_rep": 28,
+    "total_dem": 47,
+    "total_rep": 113,
+    "source": "Ballotpedia Florida House/Senate partisan history tables (1992-2024). Pre-2006 data sourced from Michael Dubin.",
+    "mapYear": 2022
+  }
+]

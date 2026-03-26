@@ -1,0 +1,681 @@
+{
+  "year": 2014,
+  "primaryDate": "2014-08-26",
+  "electionType": "gubernatorial_primary",
+  "countyCount": 67,
+  "notes": [],
+  "source": "Florida Division of Elections (dos.fl.gov / results.elections.myflorida.com)",
+  "parsedAt": "2026-03-26T11:16:24.667Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 16877,
+      "repVotes": 10145,
+      "totalVotes": 27022,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 2591,
+      "repVotes": 2500,
+      "totalVotes": 5091,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 6022,
+      "repVotes": 15796,
+      "totalVotes": 21818,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 1767,
+      "repVotes": 1808,
+      "totalVotes": 3575,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 25863,
+      "repVotes": 45602,
+      "totalVotes": 71465,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 76286,
+      "repVotes": 24323,
+      "totalVotes": 100609,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1686,
+      "repVotes": 496,
+      "totalVotes": 2182,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 5666,
+      "repVotes": 11575,
+      "totalVotes": 17241,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 8235,
+      "repVotes": 14717,
+      "totalVotes": 22952,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 3629,
+      "repVotes": 17325,
+      "totalVotes": 20954,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 7856,
+      "repVotes": 25296,
+      "totalVotes": 33152,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 3618,
+      "repVotes": 4112,
+      "totalVotes": 7730,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 2055,
+      "repVotes": 1084,
+      "totalVotes": 3139,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 2081,
+      "repVotes": 1009,
+      "totalVotes": 3090,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 34951,
+      "repVotes": 48843,
+      "totalVotes": 83794,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 10898,
+      "repVotes": 19201,
+      "totalVotes": 30099,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 4681,
+      "repVotes": 6581,
+      "totalVotes": 11262,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1219,
+      "repVotes": 525,
+      "totalVotes": 1744,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 7672,
+      "repVotes": 750,
+      "totalVotes": 8422,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 872,
+      "repVotes": 1681,
+      "totalVotes": 2553,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 304,
+      "repVotes": 205,
+      "totalVotes": 509,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1311,
+      "repVotes": 1049,
+      "totalVotes": 2360,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1176,
+      "repVotes": 485,
+      "totalVotes": 1661,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 999,
+      "repVotes": 1584,
+      "totalVotes": 2583,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1298,
+      "repVotes": 973,
+      "totalVotes": 2271,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 7884,
+      "repVotes": 9667,
+      "totalVotes": 17551,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 3264,
+      "repVotes": 6223,
+      "totalVotes": 9487,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 56586,
+      "repVotes": 52243,
+      "totalVotes": 108829,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Nan H. Rich and Not Yet Designated",
+      "demVotes": 1894,
+      "repVotes": 1505,
+      "totalVotes": 3399,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 4220,
+      "repVotes": 10018,
+      "totalVotes": 14238,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 5337,
+      "repVotes": 2547,
+      "totalVotes": 7884,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 2164,
+      "repVotes": 623,
+      "totalVotes": 2787,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1350,
+      "repVotes": 438,
+      "totalVotes": 1788,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 10502,
+      "repVotes": 20105,
+      "totalVotes": 30607,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 20425,
+      "repVotes": 52558,
+      "totalVotes": 72983,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 28726,
+      "repVotes": 12835,
+      "totalVotes": 41561,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 1676,
+      "repVotes": 3380,
+      "totalVotes": 5056,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1727,
+      "repVotes": 213,
+      "totalVotes": 1940,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 2144,
+      "repVotes": 701,
+      "totalVotes": 2845,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 14929,
+      "repVotes": 22047,
+      "totalVotes": 36976,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 11534,
+      "repVotes": 20249,
+      "totalVotes": 31783,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 5645,
+      "repVotes": 16097,
+      "totalVotes": 21742,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 82321,
+      "repVotes": 68195,
+      "totalVotes": 150516,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 5224,
+      "repVotes": 5679,
+      "totalVotes": 10903,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 2374,
+      "repVotes": 7649,
+      "totalVotes": 10023,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 3970,
+      "repVotes": 18643,
+      "totalVotes": 22613,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 1821,
+      "repVotes": 2121,
+      "totalVotes": 3942,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 50893,
+      "repVotes": 45506,
+      "totalVotes": 96399,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 9418,
+      "repVotes": 8424,
+      "totalVotes": 17842,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist",
+      "demVotes": 63338,
+      "repVotes": 31773,
+      "totalVotes": 95111,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 16598,
+      "repVotes": 21944,
+      "totalVotes": 38542,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 60626,
+      "repVotes": 62901,
+      "totalVotes": 123527,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott",
+      "demVotes": 23016,
+      "repVotes": 26878,
+      "totalVotes": 49894,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Nan H. Rich and Not Yet Designated",
+      "demVotes": 4641,
+      "repVotes": 3992,
+      "totalVotes": 8633,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 3185,
+      "repVotes": 13314,
+      "totalVotes": 16499,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 20485,
+      "repVotes": 29478,
+      "totalVotes": 49963,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott",
+      "demVotes": 14489,
+      "repVotes": 25930,
+      "totalVotes": 40419,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 5845,
+      "repVotes": 16959,
+      "totalVotes": 22804,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 14828,
+      "repVotes": 14104,
+      "totalVotes": 28932,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 4274,
+      "repVotes": 9694,
+      "totalVotes": 13968,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 2446,
+      "repVotes": 2543,
+      "totalVotes": 4989,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1491,
+      "repVotes": 768,
+      "totalVotes": 2259,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 1433,
+      "repVotes": 822,
+      "totalVotes": 2255,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 28416,
+      "repVotes": 32185,
+      "totalVotes": 60601,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Charlie Crist and Not Yet Designated",
+      "demVotes": 3152,
+      "repVotes": 1927,
+      "totalVotes": 5079,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 2175,
+      "repVotes": 6311,
+      "totalVotes": 8486,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "REP",
+      "winnerCandidate": "Rick Scott and Not Yet Designated",
+      "demVotes": 1594,
+      "repVotes": 2192,
+      "totalVotes": 3786,
+      "source": "Florida Division of Elections"
+    }
+  ]
+}

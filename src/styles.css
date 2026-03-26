@@ -1,0 +1,310 @@
+/* =========================================================
+   Florida Politics — styles
+   Light, data-journalism aesthetic
+   ========================================================= */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --dem: #2B6CB0;
+  --rep: #C53030;
+  --neutral: #CBD5E0;
+  --bg: #F7F8FA;
+  --surface: #FFFFFF;
+  --border: #E2E8F0;
+  --text: #1A202C;
+  --text-muted: #718096;
+  --text-light: #A0AEC0;
+  --font: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --max-w: 1200px;
+  --radius: 6px;
+}
+
+html { font-size: 16px; }
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Utility --- */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --- Header --- */
+.site-header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1.25rem 0;
+}
+.header-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+.site-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  line-height: 1.2;
+}
+.site-subtitle {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* --- Main --- */
+.main-content {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* --- Section headings --- */
+.section-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.2rem;
+}
+.section-sub {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+/* --- Chart section --- */
+.chart-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.25rem 1rem;
+}
+.chart-container {
+  width: 100%;
+  overflow: hidden;
+}
+.chart-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* --- Map + Details layout --- */
+.map-details-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.map-details-layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 1.25rem;
+  align-items: start;
+}
+@media (max-width: 768px) {
+  .map-details-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- Map pane --- */
+.map-pane {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.25rem 1rem;
+}
+.map-container {
+  width: 100%;
+  overflow: hidden;
+}
+.map-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* --- Details pane --- */
+.details-pane {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  min-height: 200px;
+}
+.details-panel { font-size: 0.875rem; }
+
+.details-empty {
+  color: var(--text-muted);
+  font-style: italic;
+}
+.details-error {
+  color: var(--rep);
+  font-size: 0.85rem;
+}
+
+.details-section {
+  margin-bottom: 1.25rem;
+}
+.details-section:last-child {
+  margin-bottom: 0;
+}
+.details-heading {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Legislature table */
+.details-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+.details-table th,
+.details-table td {
+  text-align: right;
+  padding: 0.2rem 0.4rem;
+  color: var(--text);
+}
+.details-table th:first-child,
+.details-table td:first-child {
+  text-align: left;
+  color: var(--text-muted);
+  padding-left: 0;
+}
+.details-table th { font-weight: 600; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.details-table th.dem { color: var(--dem); }
+.details-table th.rep { color: var(--rep); }
+.details-table td.dem { color: var(--dem); font-weight: 600; }
+.details-table td.rep { color: var(--rep); font-weight: 600; }
+.details-table tr.total-row td { border-top: 1px solid var(--border); font-weight: 700; padding-top: 0.35rem; }
+
+/* Primary summary */
+.details-primary-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+.primary-block {
+  padding: 0.6rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.82rem;
+}
+.primary-block.dem { background: #EBF4FF; border-left: 3px solid var(--dem); }
+.primary-block.rep { background: #FFF5F5; border-left: 3px solid var(--rep); }
+.primary-label { font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.2rem; }
+.primary-block.dem .primary-label { color: var(--dem); }
+.primary-block.rep .primary-label { color: var(--rep); }
+.primary-winner { font-weight: 600; color: var(--text); margin-bottom: 0.1rem; }
+.primary-votes { color: var(--text-muted); }
+.primary-counties { color: var(--text-muted); font-size: 0.78rem; }
+
+.details-notes {
+  list-style: disc;
+  padding-left: 1.2rem;
+  margin: 0.5rem 0;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+.details-notes li { margin-bottom: 0.25rem; }
+
+.details-note {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+  line-height: 1.45;
+}
+
+/* --- Tooltip --- */
+#tooltip {
+  position: fixed;
+  z-index: 1000;
+  pointer-events: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.75rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  font-size: 0.82rem;
+  max-width: 240px;
+  display: none;
+  transition: opacity 0.1s;
+}
+.tt-year {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+}
+.tt-row { margin-bottom: 0.15rem; color: var(--text); }
+.tt-row.dem { color: var(--dem); }
+.tt-row.rep { color: var(--rep); }
+.tt-row.sub { color: var(--text-muted); font-size: 0.78rem; }
+.tt-row.note { color: var(--text-muted); font-size: 0.78rem; margin-top: 0.2rem; border-top: 1px solid var(--border); padding-top: 0.2rem; }
+.tooltip-note { font-style: italic; }
+
+/* --- Footer --- */
+.site-footer {
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  margin-top: 1rem;
+  padding: 2rem 0 2.5rem;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.footer-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+.footer-heading {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 1.25rem;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.footer-grid h3 {
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  margin-bottom: 0.4rem;
+}
+.footer-grid p { line-height: 1.55; margin-bottom: 0.5rem; }
+.footer-grid strong { color: var(--text); }
+.footer-meta {
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+  font-size: 0.78rem;
+}
+.footer-meta a { color: var(--dem); text-decoration: none; }
+.footer-meta a:hover { text-decoration: underline; }
