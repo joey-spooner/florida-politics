@@ -48,26 +48,28 @@ export interface Metadata {
 // Map years with actual county data files
 export const MAP_YEARS = new Set([1994, 2002, 2006, 2010, 2014, 2018, 2022]);
 
+const BASE = import.meta.env.BASE_URL;
+
 export async function loadLegislatureData(): Promise<LegYear[]> {
-  const res = await fetch("/data/legislature_by_year.json");
+  const res = await fetch(`${BASE}data/legislature_by_year.json`);
   if (!res.ok) throw new Error(`Failed to load legislature data: ${res.status}`);
   return res.json();
 }
 
 export async function loadGovYearData(year: number): Promise<GovYearData> {
-  const res = await fetch(`/data/gov_primary_counties/${year}.json`);
+  const res = await fetch(`${BASE}data/gov_primary_counties/${year}.json`);
   if (!res.ok) throw new Error(`Failed to load ${year} county data: ${res.status}`);
   return res.json();
 }
 
 export async function loadGeoJson(): Promise<GeoJSON.FeatureCollection> {
-  const res = await fetch("/data/florida_counties.geo.json");
+  const res = await fetch(`${BASE}data/florida_counties.geo.json`);
   if (!res.ok) throw new Error(`Failed to load GeoJSON: ${res.status}`);
   return res.json();
 }
 
 export async function loadMetadata(): Promise<Metadata> {
-  const res = await fetch("/data/metadata.json");
+  const res = await fetch(`${BASE}data/metadata.json`);
   if (!res.ok) throw new Error(`Failed to load metadata: ${res.status}`);
   return res.json();
 }

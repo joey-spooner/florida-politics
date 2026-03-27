@@ -66,7 +66,7 @@ async function main(): Promise<void> {
 
     // Build date
     try {
-      const metadata = await fetch("/data/metadata.json").then((r) => r.json());
+      const metadata = await fetch(`${import.meta.env.BASE_URL}data/metadata.json`).then((r) => r.json());
       if (buildDateEl && metadata.buildDate) {
         buildDateEl.textContent = metadata.buildDate;
       }
