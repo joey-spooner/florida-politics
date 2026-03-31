@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && rsync -a --delete dist/ ../spoonerlabs-site/florida-politics/",
+    "deploy": "npm run build && rsync -a --delete dist/ ../spoonerlabs-site/public/florida-politics/",
     "data:fetch-legislature": "tsx scripts/fetch_legislature.ts",
     "data:fetch-elections": "tsx scripts/fetch_elections.ts",
     "data:fetch-zips": "tsx scripts/fetch_election_zips.ts",
