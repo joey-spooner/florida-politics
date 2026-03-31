@@ -145,17 +145,6 @@ export function initChart(
   const selRingDem = g.append("circle").attr("class", "sel-ring sel-ring-dem").attr("r", 0).attr("fill", "none").attr("stroke", DEM_COLOR).attr("stroke-width", 2.5).attr("opacity", 0.5);
   const selRingRep = g.append("circle").attr("class", "sel-ring sel-ring-rep").attr("r", 0).attr("fill", "none").attr("stroke", REP_COLOR).attr("stroke-width", 2.5).attr("opacity", 0.5);
 
-  // Legend
-  const legend = svg.append("g").attr("transform", `translate(${MARGIN.left + W - 140},${MARGIN.top})`);
-  [
-    { label: "Democrats", color: DEM_COLOR },
-    { label: "Republicans", color: REP_COLOR },
-  ].forEach(({ label, color }, i) => {
-    const lg = legend.append("g").attr("transform", `translate(0,${i * 18})`);
-    lg.append("line").attr("x1", 0).attr("x2", 16).attr("y1", 6).attr("y2", 6).attr("stroke", color).attr("stroke-width", 2);
-    lg.append("text").attr("x", 22).attr("y", 10).attr("font-size", "12").attr("fill", "#4A5568").text(label);
-  });
-
   // Invisible overlay rects for hover interaction (one per year)
   const colW = W / (data.length - 1);
   g.selectAll<SVGRectElement, LegYear>(".hit-rect")

@@ -21,8 +21,10 @@ import { join } from "path";
 const INTERIM_DIR = "data/interim";
 const PUBLIC_DATA_DIR = "public/data";
 const PUBLIC_COUNTIES_DIR = join(PUBLIC_DATA_DIR, "gov_primary_counties");
+const PUBLIC_GENERAL_DIR  = join(PUBLIC_DATA_DIR, "gov_general_counties");
 
 mkdirSync(PUBLIC_COUNTIES_DIR, { recursive: true });
+mkdirSync(PUBLIC_GENERAL_DIR,  { recursive: true });
 
 // Target years (1998 excluded: uncontested both sides, Atlas data corrupted)
 const TARGET_YEARS = [1994, 2002, 2006, 2010, 2014, 2018, 2022];
@@ -121,6 +123,22 @@ function main() {
     writeFileSync(outPath, JSON.stringify(data, null, 2), "utf-8");
     includedYears.push(year);
     console.log(`✓ ${year}: ${validation.countyCount} counties → ${outPath}`);
+  }
+
+  // Build general election files
+  const GENERAL_YEARS = [1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022];
+  const includedGeneralYears: number[] = [];
+  for (const year of GENERAL_YEARS) {
+    const interimPath = join(INTERIM_DIR, `general_${year}.json`);
+    if (!existsSync(interimPath)) {
+      console.warn(`SKIP general ${year}: not found (run parse-general first)`);
+      continue;
+    }
+    const data = JSON.parse(readFileSync(interimPath, "utf-8"));
+    const outPath = join(PUBLIC_GENERAL_DIR, `${year}.json`);
+    writeFileSync(outPath, JSON.stringify(data, null, 2), "utf-8");
+    includedGeneralYears.push(year);
+    console.log(`✓ general ${year}: ${(data.counties as unknown[]).length} counties → ${outPath}`);
   }
 
   // Read legislature data to get coverage range

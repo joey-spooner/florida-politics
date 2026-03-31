@@ -1,0 +1,683 @@
+{
+  "year": 2002,
+  "electionDate": "2002-11-05",
+  "electionType": "gubernatorial_general",
+  "demCandidate": "Bill McBride",
+  "repCandidate": "Jeb Bush",
+  "countyCount": 67,
+  "notes": [],
+  "source": "Florida Division of Elections (dos.fl.gov / results.elections.myflorida.com)",
+  "parsedAt": "2026-03-31T16:36:01.437Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 40621,
+      "repVotes": 29118,
+      "totalVotes": 69739,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1961,
+      "repVotes": 4515,
+      "totalVotes": 6476,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 14258,
+      "repVotes": 34107,
+      "totalVotes": 48365,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3135,
+      "repVotes": 4596,
+      "totalVotes": 7731,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 72873,
+      "repVotes": 117741,
+      "totalVotes": 190614,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 259370,
+      "repVotes": 175756,
+      "totalVotes": 435126,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 2274,
+      "repVotes": 1917,
+      "totalVotes": 4191,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 22540,
+      "repVotes": 36385,
+      "totalVotes": 58925,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 19777,
+      "repVotes": 32400,
+      "totalVotes": 52177,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 11233,
+      "repVotes": 39347,
+      "totalVotes": 50580,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 21237,
+      "repVotes": 61555,
+      "totalVotes": 82792,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 6603,
+      "repVotes": 9554,
+      "totalVotes": 16157,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3212,
+      "repVotes": 3951,
+      "totalVotes": 7163,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1722,
+      "repVotes": 2273,
+      "totalVotes": 3995,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 92263,
+      "repVotes": 148923,
+      "totalVotes": 241186,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 31844,
+      "repVotes": 60095,
+      "totalVotes": 91939,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 11133,
+      "repVotes": 14407,
+      "totalVotes": 25540,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 1931,
+      "repVotes": 1819,
+      "totalVotes": 3750,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 11228,
+      "repVotes": 3948,
+      "totalVotes": 15176,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1930,
+      "repVotes": 3060,
+      "totalVotes": 4990,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1223,
+      "repVotes": 1698,
+      "totalVotes": 2921,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2349,
+      "repVotes": 3026,
+      "totalVotes": 5375,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 1663,
+      "repVotes": 1611,
+      "totalVotes": 3274,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2181,
+      "repVotes": 3145,
+      "totalVotes": 5326,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2535,
+      "repVotes": 3785,
+      "totalVotes": 6320,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 23357,
+      "repVotes": 33736,
+      "totalVotes": 57093,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 10030,
+      "repVotes": 19737,
+      "totalVotes": 29767,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 134276,
+      "repVotes": 175630,
+      "totalVotes": 309906,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1986,
+      "repVotes": 3580,
+      "totalVotes": 5566,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 14448,
+      "repVotes": 29560,
+      "totalVotes": 44008,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 7815,
+      "repVotes": 6868,
+      "totalVotes": 14683,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 3569,
+      "repVotes": 2141,
+      "totalVotes": 5710,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1060,
+      "repVotes": 1461,
+      "totalVotes": 2521,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 27785,
+      "repVotes": 51736,
+      "totalVotes": 79521,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 51682,
+      "repVotes": 109183,
+      "totalVotes": 160865,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 60771,
+      "repVotes": 32551,
+      "totalVotes": 93322,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 4854,
+      "repVotes": 6205,
+      "totalVotes": 11059,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 1433,
+      "repVotes": 932,
+      "totalVotes": 2365,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 3269,
+      "repVotes": 2538,
+      "totalVotes": 5807,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 40083,
+      "repVotes": 60544,
+      "totalVotes": 100627,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 36113,
+      "repVotes": 58163,
+      "totalVotes": 94276,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 19142,
+      "repVotes": 33786,
+      "totalVotes": 52928,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 233469,
+      "repVotes": 266107,
+      "totalVotes": 499576,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 11832,
+      "repVotes": 13567,
+      "totalVotes": 25399,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 5483,
+      "repVotes": 15593,
+      "totalVotes": 21076,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 12563,
+      "repVotes": 43587,
+      "totalVotes": 56150,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3823,
+      "repVotes": 4646,
+      "totalVotes": 8469,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 102134,
+      "repVotes": 137070,
+      "totalVotes": 239204,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 18591,
+      "repVotes": 29017,
+      "totalVotes": 47608,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 213649,
+      "repVotes": 160581,
+      "totalVotes": 374230,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 52704,
+      "repVotes": 75131,
+      "totalVotes": 127835,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 146136,
+      "repVotes": 185467,
+      "totalVotes": 331603,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 54299,
+      "repVotes": 87322,
+      "totalVotes": 141621,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 9010,
+      "repVotes": 13100,
+      "totalVotes": 22110,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 10648,
+      "repVotes": 32754,
+      "totalVotes": 43402,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 55503,
+      "repVotes": 82318,
+      "totalVotes": 137821,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 42357,
+      "repVotes": 76301,
+      "totalVotes": 118658,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 15512,
+      "repVotes": 40056,
+      "totalVotes": 55568,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 30913,
+      "repVotes": 35935,
+      "totalVotes": 66848,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 7447,
+      "repVotes": 15033,
+      "totalVotes": 22480,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3911,
+      "repVotes": 7068,
+      "totalVotes": 10979,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2719,
+      "repVotes": 3218,
+      "totalVotes": 5937,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1611,
+      "repVotes": 1807,
+      "totalVotes": 3418,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 72208,
+      "repVotes": 85594,
+      "totalVotes": 157802,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Bill McBride",
+      "demVotes": 4664,
+      "repVotes": 3700,
+      "totalVotes": 8364,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 4801,
+      "repVotes": 10671,
+      "totalVotes": 15472,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2671,
+      "repVotes": 4119,
+      "totalVotes": 6790,
+      "source": "Florida Division of Elections"
+    }
+  ]
+}

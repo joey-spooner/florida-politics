@@ -1,0 +1,683 @@
+{
+  "year": 1994,
+  "electionDate": "1994-11-08",
+  "electionType": "gubernatorial_general",
+  "demCandidate": "Lawton Chiles",
+  "repCandidate": "Jeb Bush",
+  "countyCount": 67,
+  "notes": [],
+  "source": "Florida Division of Elections (dos.fl.gov / results.elections.myflorida.com)",
+  "parsedAt": "2026-03-31T16:36:01.443Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 35030,
+      "repVotes": 21624,
+      "totalVotes": 56654,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1654,
+      "repVotes": 3600,
+      "totalVotes": 5254,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 17816,
+      "repVotes": 23498,
+      "totalVotes": 41314,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2642,
+      "repVotes": 4470,
+      "totalVotes": 7112,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 72393,
+      "repVotes": 82878,
+      "totalVotes": 155271,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 261368,
+      "repVotes": 138333,
+      "totalVotes": 399701,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 1811,
+      "repVotes": 1775,
+      "totalVotes": 3586,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 24159,
+      "repVotes": 27965,
+      "totalVotes": 52124,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 20094,
+      "repVotes": 20633,
+      "totalVotes": 40727,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 9986,
+      "repVotes": 24290,
+      "totalVotes": 34276,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 22860,
+      "repVotes": 36370,
+      "totalVotes": 59230,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 5288,
+      "repVotes": 7408,
+      "totalVotes": 12696,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2856,
+      "repVotes": 3407,
+      "totalVotes": 6263,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 2003,
+      "repVotes": 1981,
+      "totalVotes": 3984,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 80945,
+      "repVotes": 108900,
+      "totalVotes": 189845,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 33210,
+      "repVotes": 45261,
+      "totalVotes": 78471,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 7954,
+      "repVotes": 7160,
+      "totalVotes": 15114,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 2636,
+      "repVotes": 1324,
+      "totalVotes": 3960,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 7751,
+      "repVotes": 3422,
+      "totalVotes": 11173,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 1701,
+      "repVotes": 1922,
+      "totalVotes": 3623,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 1387,
+      "repVotes": 1310,
+      "totalVotes": 2697,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 3060,
+      "repVotes": 2339,
+      "totalVotes": 5399,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 1453,
+      "repVotes": 1429,
+      "totalVotes": 2882,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 2695,
+      "repVotes": 2649,
+      "totalVotes": 5344,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2623,
+      "repVotes": 3308,
+      "totalVotes": 5931,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 25331,
+      "repVotes": 24532,
+      "totalVotes": 49863,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 12323,
+      "repVotes": 14617,
+      "totalVotes": 26940,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 117974,
+      "repVotes": 124561,
+      "totalVotes": 242535,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2134,
+      "repVotes": 2942,
+      "totalVotes": 5076,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 16410,
+      "repVotes": 20630,
+      "totalVotes": 37040,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 5907,
+      "repVotes": 6698,
+      "totalVotes": 12605,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 2575,
+      "repVotes": 1625,
+      "totalVotes": 4200,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 936,
+      "repVotes": 1105,
+      "totalVotes": 2041,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 29797,
+      "repVotes": 30394,
+      "totalVotes": 60191,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 58785,
+      "repVotes": 75365,
+      "totalVotes": 134150,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 47323,
+      "repVotes": 27265,
+      "totalVotes": 74588,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 4588,
+      "repVotes": 4322,
+      "totalVotes": 8910,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 947,
+      "repVotes": 985,
+      "totalVotes": 1932,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 2564,
+      "repVotes": 2161,
+      "totalVotes": 4725,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 40473,
+      "repVotes": 41915,
+      "totalVotes": 82388,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 31345,
+      "repVotes": 38784,
+      "totalVotes": 70129,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 20706,
+      "repVotes": 25239,
+      "totalVotes": 45945,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 215276,
+      "repVotes": 198371,
+      "totalVotes": 413647,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 13232,
+      "repVotes": 10086,
+      "totalVotes": 23318,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 5331,
+      "repVotes": 9968,
+      "totalVotes": 15299,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 16459,
+      "repVotes": 31459,
+      "totalVotes": 47918,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3492,
+      "repVotes": 3545,
+      "totalVotes": 7037,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 85098,
+      "repVotes": 92096,
+      "totalVotes": 177194,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 15292,
+      "repVotes": 18437,
+      "totalVotes": 33729,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 198638,
+      "repVotes": 125208,
+      "totalVotes": 323846,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 57597,
+      "repVotes": 52418,
+      "totalVotes": 110015,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 166858,
+      "repVotes": 160115,
+      "totalVotes": 326973,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 58364,
+      "repVotes": 65415,
+      "totalVotes": 123779,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 9658,
+      "repVotes": 10505,
+      "totalVotes": 20163,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 11726,
+      "repVotes": 20345,
+      "totalVotes": 32071,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 60770,
+      "repVotes": 67531,
+      "totalVotes": 128301,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 39324,
+      "repVotes": 49387,
+      "totalVotes": 88711,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 12791,
+      "repVotes": 22036,
+      "totalVotes": 34827,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 27956,
+      "repVotes": 27436,
+      "totalVotes": 55392,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 5603,
+      "repVotes": 5360,
+      "totalVotes": 10963,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 3935,
+      "repVotes": 5064,
+      "totalVotes": 8999,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2979,
+      "repVotes": 3024,
+      "totalVotes": 6003,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 791,
+      "repVotes": 2009,
+      "totalVotes": 2800,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 66614,
+      "repVotes": 58632,
+      "totalVotes": 125246,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Lawton Chiles",
+      "demVotes": 3696,
+      "repVotes": 2492,
+      "totalVotes": 6188,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 5067,
+      "repVotes": 6493,
+      "totalVotes": 11560,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "REP",
+      "winnerCandidate": "Jeb Bush",
+      "demVotes": 2968,
+      "repVotes": 3240,
+      "totalVotes": 6208,
+      "source": "Florida Division of Elections"
+    }
+  ]
+}
