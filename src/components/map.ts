@@ -120,6 +120,14 @@ export function initMap(
     lg.append("text").attr("x", 18).attr("y", 10).attr("font-size", "11").attr("fill", "#4A5568").text(label);
   });
 
+  // No-data overlay
+  const noDataOverlay = document.createElement("div");
+  noDataOverlay.className = "map-no-data";
+  noDataOverlay.textContent = "No primary data for this period";
+  noDataOverlay.setAttribute("aria-hidden", "true");
+  container.style.position = "relative";
+  container.appendChild(noDataOverlay);
+
   // Update function
   function update(govData: GovYearData | null): void {
     state.countyData.clear();
@@ -131,7 +139,12 @@ export function initMap(
       }
     }
 
-    paths.attr("fill", (d) => countyColor(String(d.id ?? "")));
+    noDataOverlay.classList.toggle("is-visible", govData === null);
+
+    paths
+      .transition()
+      .duration(450)
+      .attr("fill", (d) => countyColor(String(d.id ?? "")));
   }
 
   return update;

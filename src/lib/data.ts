@@ -46,7 +46,8 @@ export interface Metadata {
 }
 
 // Map years with actual county data files
-export const MAP_YEARS = new Set([1994, 2002, 2006, 2010, 2014, 2018, 2022]);
+export const MAP_YEARS         = new Set([1994, 2002, 2006, 2010, 2014, 2018, 2022]);
+export const GENERAL_MAP_YEARS = new Set([1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022]);
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -59,6 +60,12 @@ export async function loadLegislatureData(): Promise<LegYear[]> {
 export async function loadGovYearData(year: number): Promise<GovYearData> {
   const res = await fetch(`${BASE}data/gov_primary_counties/${year}.json`);
   if (!res.ok) throw new Error(`Failed to load ${year} county data: ${res.status}`);
+  return res.json();
+}
+
+export async function loadGovGeneralData(year: number): Promise<GovYearData> {
+  const res = await fetch(`${BASE}data/gov_general_counties/${year}.json`);
+  if (!res.ok) throw new Error(`Failed to load ${year} general data: ${res.status}`);
   return res.json();
 }
 

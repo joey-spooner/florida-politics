@@ -1,0 +1,683 @@
+{
+  "year": 2018,
+  "electionDate": "2018-11-06",
+  "electionType": "gubernatorial_general",
+  "demCandidate": "Andrew Gillum",
+  "repCandidate": "Ron DeSantis",
+  "countyCount": 67,
+  "notes": [],
+  "source": "Florida Division of Elections (dos.fl.gov / results.elections.myflorida.com)",
+  "parsedAt": "2026-03-31T16:36:01.423Z",
+  "counties": [
+    {
+      "county": "Alachua",
+      "fips": "12001",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 72711,
+      "repVotes": 41278,
+      "totalVotes": 113989,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Baker",
+      "fips": "12003",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1760,
+      "repVotes": 8687,
+      "totalVotes": 10447,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bay",
+      "fips": "12005",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 16757,
+      "repVotes": 45709,
+      "totalVotes": 62466,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Bradford",
+      "fips": "12007",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 2671,
+      "repVotes": 7698,
+      "totalVotes": 10369,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Brevard",
+      "fips": "12009",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 114921,
+      "repVotes": 162213,
+      "totalVotes": 277134,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Broward",
+      "fips": "12011",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 482152,
+      "repVotes": 222012,
+      "totalVotes": 704164,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Calhoun",
+      "fips": "12013",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 923,
+      "repVotes": 3576,
+      "totalVotes": 4499,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Charlotte",
+      "fips": "12015",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 31248,
+      "repVotes": 54102,
+      "totalVotes": 85350,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Citrus",
+      "fips": "12017",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 21197,
+      "repVotes": 47729,
+      "totalVotes": 68926,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Clay",
+      "fips": "12019",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 28150,
+      "repVotes": 64401,
+      "totalVotes": 92551,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Collier",
+      "fips": "12021",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 53594,
+      "repVotes": 100303,
+      "totalVotes": 153897,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Columbia",
+      "fips": "12023",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 7105,
+      "repVotes": 17426,
+      "totalVotes": 24531,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "DeSoto",
+      "fips": "12027",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3059,
+      "repVotes": 5663,
+      "totalVotes": 8722,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Dixie",
+      "fips": "12029",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1008,
+      "repVotes": 4663,
+      "totalVotes": 5671,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Duval",
+      "fips": "12031",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 196612,
+      "repVotes": 179902,
+      "totalVotes": 376514,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Escambia",
+      "fips": "12033",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 52835,
+      "repVotes": 74719,
+      "totalVotes": 127554,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Flagler",
+      "fips": "12035",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 21183,
+      "repVotes": 30951,
+      "totalVotes": 52134,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Franklin",
+      "fips": "12037",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1790,
+      "repVotes": 3508,
+      "totalVotes": 5298,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gadsden",
+      "fips": "12039",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 13712,
+      "repVotes": 6200,
+      "totalVotes": 19912,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gilchrist",
+      "fips": "12041",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1282,
+      "repVotes": 5975,
+      "totalVotes": 7257,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Glades",
+      "fips": "12043",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1095,
+      "repVotes": 2647,
+      "totalVotes": 3742,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Gulf",
+      "fips": "12045",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1511,
+      "repVotes": 4265,
+      "totalVotes": 5776,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hamilton",
+      "fips": "12047",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1591,
+      "repVotes": 2908,
+      "totalVotes": 4499,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hardee",
+      "fips": "12049",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1802,
+      "repVotes": 4486,
+      "totalVotes": 6288,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hendry",
+      "fips": "12051",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3516,
+      "repVotes": 5177,
+      "totalVotes": 8693,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hernando",
+      "fips": "12053",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 29426,
+      "repVotes": 49671,
+      "totalVotes": 79097,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Highlands",
+      "fips": "12055",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 12783,
+      "repVotes": 26285,
+      "totalVotes": 39068,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Hillsborough",
+      "fips": "12057",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 281598,
+      "repVotes": 234835,
+      "totalVotes": 516433,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Holmes",
+      "fips": "12059",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 737,
+      "repVotes": 5940,
+      "totalVotes": 6677,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Indian River",
+      "fips": "12061",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 28460,
+      "repVotes": 44925,
+      "totalVotes": 73385,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jackson",
+      "fips": "12063",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 5019,
+      "repVotes": 10771,
+      "totalVotes": 15790,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Jefferson",
+      "fips": "12065",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3375,
+      "repVotes": 3877,
+      "totalVotes": 7252,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lafayette",
+      "fips": "12067",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 419,
+      "repVotes": 2364,
+      "totalVotes": 2783,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lake",
+      "fips": "12069",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 60289,
+      "repVotes": 92633,
+      "totalVotes": 152922,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Lee",
+      "fips": "12071",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 111172,
+      "repVotes": 174085,
+      "totalVotes": 285257,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Leon",
+      "fips": "12073",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 88764,
+      "repVotes": 49942,
+      "totalVotes": 138706,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Levy",
+      "fips": "12075",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 4718,
+      "repVotes": 12084,
+      "totalVotes": 16802,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Liberty",
+      "fips": "12077",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 527,
+      "repVotes": 2060,
+      "totalVotes": 2587,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Madison",
+      "fips": "12079",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3235,
+      "repVotes": 4345,
+      "totalVotes": 7580,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Manatee",
+      "fips": "12081",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 67629,
+      "repVotes": 93246,
+      "totalVotes": 160875,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Marion",
+      "fips": "12083",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 57392,
+      "repVotes": 94901,
+      "totalVotes": 152293,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Martin",
+      "fips": "12085",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 29133,
+      "repVotes": 47820,
+      "totalVotes": 76953,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Miami-Dade",
+      "fips": "12086",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 478958,
+      "repVotes": 311581,
+      "totalVotes": 790539,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Monroe",
+      "fips": "12087",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 17176,
+      "repVotes": 18509,
+      "totalVotes": 35685,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Nassau",
+      "fips": "12089",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 11472,
+      "repVotes": 31704,
+      "totalVotes": 43176,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okaloosa",
+      "fips": "12091",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 22408,
+      "repVotes": 59940,
+      "totalVotes": 82348,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Okeechobee",
+      "fips": "12093",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3306,
+      "repVotes": 7730,
+      "totalVotes": 11036,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Orange",
+      "fips": "12095",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 296257,
+      "repVotes": 174228,
+      "totalVotes": 470485,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Osceola",
+      "fips": "12097",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 68707,
+      "repVotes": 44627,
+      "totalVotes": 113334,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Palm Beach",
+      "fips": "12099",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 341409,
+      "repVotes": 241016,
+      "totalVotes": 582425,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pasco",
+      "fips": "12101",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 86384,
+      "repVotes": 120753,
+      "totalVotes": 207137,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Pinellas",
+      "fips": "12103",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 220818,
+      "repVotes": 207677,
+      "totalVotes": 428495,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Polk",
+      "fips": "12105",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 104057,
+      "repVotes": 136711,
+      "totalVotes": 240768,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Putnam",
+      "fips": "12107",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 9011,
+      "repVotes": 18721,
+      "totalVotes": 27732,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Santa Rosa",
+      "fips": "12113",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 18207,
+      "repVotes": 56148,
+      "totalVotes": 74355,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sarasota",
+      "fips": "12115",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 94986,
+      "repVotes": 113211,
+      "totalVotes": 208197,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Seminole",
+      "fips": "12117",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 100197,
+      "repVotes": 96622,
+      "totalVotes": 196819,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Johns",
+      "fips": "12109",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 46206,
+      "repVotes": 83658,
+      "totalVotes": 129864,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "St. Lucie",
+      "fips": "12111",
+      "winnerParty": "DEM",
+      "winnerCandidate": "Andrew Gillum",
+      "demVotes": 63605,
+      "repVotes": 58990,
+      "totalVotes": 122595,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Sumter",
+      "fips": "12119",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 21843,
+      "repVotes": 51798,
+      "totalVotes": 73641,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Suwannee",
+      "fips": "12121",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 3450,
+      "repVotes": 12234,
+      "totalVotes": 15684,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Taylor",
+      "fips": "12123",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1877,
+      "repVotes": 5942,
+      "totalVotes": 7819,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Union",
+      "fips": "12125",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 972,
+      "repVotes": 3841,
+      "totalVotes": 4813,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Volusia",
+      "fips": "12127",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 100478,
+      "repVotes": 124819,
+      "totalVotes": 225297,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Wakulla",
+      "fips": "12129",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 4194,
+      "repVotes": 9802,
+      "totalVotes": 13996,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Walton",
+      "fips": "12131",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 7019,
+      "repVotes": 22925,
+      "totalVotes": 29944,
+      "source": "Florida Division of Elections"
+    },
+    {
+      "county": "Washington",
+      "fips": "12133",
+      "winnerParty": "REP",
+      "winnerCandidate": "Ron DeSantis",
+      "demVotes": 1865,
+      "repVotes": 7017,
+      "totalVotes": 8882,
+      "source": "Florida Division of Elections"
+    }
+  ]
+}

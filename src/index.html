@@ -17,7 +17,7 @@
           <h1 class="site-title">Florida Politics</h1>
           <p class="site-subtitle">
             Legislative party balance and gubernatorial primary county results, 1992–2024.
-            Click a year on the chart to update the map.
+            Click a year on the chart to update the map, or press Play to animate through elections.
           </p>
         </div>
       </div>
@@ -27,18 +27,43 @@
 
       <!-- Chart section -->
       <section class="chart-section" aria-label="Florida legislature party balance over time">
-        <h2 class="section-heading">Combined Legislature Seats by Party</h2>
-        <p class="section-sub">Florida House (120 seats) + Florida Senate (40 seats). Click any year to see the corresponding county map.</p>
+        <div class="chart-section-header">
+          <div>
+            <h2 class="section-heading">Combined Legislature Seats by Party</h2>
+            <p class="section-sub">Florida House (120 seats) + Florida Senate (40 seats). Click any year to see the corresponding county map.</p>
+          </div>
+          <div class="chart-legend" aria-label="Chart legend">
+            <div class="chart-legend-item">
+              <span class="chart-legend-swatch" style="background:#2B6CB0"></span>
+              <span>Democrats</span>
+            </div>
+            <div class="chart-legend-item">
+              <span class="chart-legend-swatch" style="background:#C53030"></span>
+              <span>Republicans</span>
+            </div>
+          </div>
+        </div>
         <div id="chart-container" class="chart-container"></div>
       </section>
+
+      <!-- Playback controls -->
+      <div id="playback-container" aria-label="Animation controls"></div>
 
       <!-- Map + Details section -->
       <section id="map-section" class="map-details-section" aria-label="Florida county map">
         <div class="map-details-layout">
 
           <div class="map-pane">
-            <h2 class="section-heading">County Results — Gubernatorial Primary</h2>
-            <p class="section-sub">Counties colored by which major party drew more total votes in the gubernatorial primary.</p>
+            <div class="map-pane-header">
+              <div>
+                <h2 class="section-heading">County Results — Governor</h2>
+                <p class="section-sub" id="map-sub">Counties colored by which party drew more votes in the gubernatorial primary.</p>
+              </div>
+              <div class="view-toggle" role="group" aria-label="Election type">
+                <button class="view-toggle-btn is-active" data-mode="primary">Primary</button>
+                <button class="view-toggle-btn" data-mode="general">General</button>
+              </div>
+            </div>
             <div id="map-container" class="map-container"></div>
           </div>
 
@@ -54,6 +79,49 @@
 
       <!-- Accessibility summary (visually hidden) -->
       <div id="a11y-summary" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+      <!-- Insights section -->
+      <section class="insights-section" aria-label="Insights">
+        <h2 class="insights-heading">Insights</h2>
+        <div class="insights-grid">
+
+          <div class="insight-card insight-card--blue">
+            <h3 class="insight-card__title">Who Always Votes Blue?</h3>
+            <p class="insight-card__body">
+              <strong>14 counties voted Democratic in every gubernatorial primary on record</strong> — including
+              years when Republicans ran contested races. These include the state capital
+              (Leon), Florida's largest university town (Alachua/Gainesville), majority-Black counties
+              in the historic Black Belt (Gadsden, Jefferson, Madison, Hamilton), and South Florida
+              population centers (Broward, Palm Beach).
+            </p>
+            <p class="insight-card__counties">
+              Alachua · Broward · Calhoun · DeSoto · Franklin · Gadsden · Hamilton ·
+              Jackson · Jefferson · Leon · Liberty · Madison · Palm Beach · Taylor
+            </p>
+          </div>
+
+          <div class="insight-card insight-card--red">
+            <h3 class="insight-card__title">Who Always Votes Red?</h3>
+            <p class="insight-card__body">
+              <strong>No county voted Republican in every election in this dataset</strong> — because
+              the 2002 and 2022 Republican primaries were uncontested (Jeb Bush and Ron DeSantis
+              ran without opposition), leaving only Democratic primary votes to color those maps.
+              That's a data artifact, not a political shift.
+            </p>
+            <p class="insight-card__body">
+              In the <strong>five years when both parties held contested primaries</strong>
+              (1994, 2006, 2010, 2014, 2018), <strong>20 counties voted Republican every time</strong>:
+              suburban Central Florida, the Gulf Coast, and the Space Coast.
+            </p>
+            <p class="insight-card__counties">
+              Brevard · Charlotte · Clay · Collier · Flagler · Hernando · Highlands ·
+              Indian River · Lake · Lee · Manatee · Marion · Martin · Okaloosa ·
+              Pasco · Pinellas · Sarasota · Seminole · St. Johns · Volusia
+            </p>
+          </div>
+
+        </div>
+      </section>
 
     </main>
 

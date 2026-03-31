@@ -11,11 +11,16 @@
     "data:fetch-legislature": "tsx scripts/fetch_legislature.ts",
     "data:fetch-elections": "tsx scripts/fetch_elections.ts",
     "data:fetch-zips": "tsx scripts/fetch_election_zips.ts",
+    "data:fetch-general-zips": "tsx scripts/fetch_general_zips.ts",
+    "data:fetch-general-doe": "tsx scripts/fetch_general_doe.ts",
+    "data:fetch-general-extracts": "tsx scripts/fetch_general_extracts.ts",
     "data:parse-legislature": "tsx scripts/parse_legislature.ts",
     "data:parse-elections": "tsx scripts/parse_elections.ts",
+    "data:parse-general": "tsx scripts/parse_general_elections.ts",
     "data:normalize": "tsx scripts/normalize.ts",
     "data:build": "tsx scripts/build_data.ts",
-    "data:all": "npm run data:fetch-legislature && npm run data:parse-legislature && npm run data:fetch-elections && npm run data:fetch-zips && npm run data:parse-elections && npm run data:normalize && npm run data:build"
+    "data:all": "npm run data:fetch-legislature && npm run data:parse-legislature && npm run data:fetch-elections && npm run data:fetch-zips && npm run data:parse-elections && npm run data:normalize && npm run data:build",
+    "data:general": "npm run data:fetch-general-extracts && npm run data:fetch-general-zips && npm run data:parse-general && npm run data:build"
   },
   "dependencies": {
     "d3": "^7.9.0",
