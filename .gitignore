@@ -1,8 +1,33 @@
 node_modules/
 dist/
+*.tsbuildinfo
 data/raw/
 data/interim/
 data/processed/
 
 *.md
 !README.md
+
+# Secrets & credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Claude / AI agent
+.claude/
+
+# macOS
+.DS_Store
+._*
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
